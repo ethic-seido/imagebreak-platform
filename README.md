@@ -3,7 +3,6 @@
 > Too many tools, not enough time. ImageBreak brings image editing, video and music creation into one place — with or without AI. Built in France 🇫🇷
 
 [![Website](https://img.shields.io/badge/Website-imagebreak.com-blue)](https://imagebreak.com)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Made in France](https://img.shields.io/badge/Made%20in-France%20🇫🇷-red)]()
 
 ---
